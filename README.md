@@ -1,6 +1,9 @@
 # alexandria
 A starter FileMaker system with various built-in modules and custom functions.
 
+Username: Developer
+Password: developer
+
 ## Scripts
 
 ### Templates
